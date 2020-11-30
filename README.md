@@ -1,5 +1,6 @@
 # paper_scanner
 A4サイズの紙面の画像を取り込み、スキャンしたものへと変換させる。
+実装動画->https://www.youtube.com/watch?v=ZKxsAc-P1pE&feature=youtu.be
 # 使い方
 
 ## 1.実行して、マスクを作成する範囲を指定。
